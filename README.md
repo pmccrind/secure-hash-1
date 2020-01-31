@@ -1,2 +1,2 @@
-# secure-hash-1
-Recreted SHA-1 in C
+# Secure-Hashing-Algorithm-1
+Recreated SHA-1 in C
